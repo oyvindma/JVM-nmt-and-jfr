@@ -17,6 +17,7 @@ https://www.ivankrizsan.se/2019/11/21/visualvm-and-jdk-mission-control-on-mac-os
 https://www.youtube.com/watch?v=9u6btGIw7AA
 https://docs.oracle.com/javacomponents/jmc-5-5/jfr-command-reference/JFRCR.pdf
 http://www.mastertheboss.com/other/java-stuff/solving-java-lang-outofmemoryerror-metaspace-error
+https://wiki.openjdk.java.net/display/HotSpot/Metaspace
 
 ## JFR
 Where JFR should store data captured during profiling. The files stored can be concatenated by using "JFR.dump" while the process is running. If your process dies, they can be concatenated afterwards.
