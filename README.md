@@ -19,6 +19,7 @@ https://docs.oracle.com/javacomponents/jmc-5-5/jfr-command-reference/JFRCR.pdf
 http://www.mastertheboss.com/other/java-stuff/solving-java-lang-outofmemoryerror-metaspace-error
 https://wiki.openjdk.java.net/display/HotSpot/Metaspace
 https://www.programmersought.com/article/1563524182/
+https://developers.redhat.com/blog/2020/08/25/get-started-with-jdk-flight-recorder-in-openjdk-8u/
 
 ## JFR
 Where JFR should store data captured during profiling. The files stored can be concatenated by using "JFR.dump" while the process is running. If your process dies, they can be concatenated afterwards.
