@@ -21,6 +21,12 @@ https://wiki.openjdk.java.net/display/HotSpot/Metaspace
 https://www.programmersought.com/article/1563524182/
 https://developers.redhat.com/blog/2020/08/25/get-started-with-jdk-flight-recorder-in-openjdk-8u/
 
+Direct memory:
+https://stackoverflow.com/questions/20058489/is-there-a-way-to-measure-direct-memory-usage-in-java
+
+Questions to elaborate no:
+Different types of off-heap memory (Metaspace, direct memory buffers++. How do they work and how to monitor?
+
 ## JFR
 Where JFR should store data captured during profiling. The files stored can be concatenated by using "JFR.dump" while the process is running. If your process dies, they can be concatenated afterwards.
 jcmd <<PID>> JFR.configure repositorypath=./jfr-recordings
